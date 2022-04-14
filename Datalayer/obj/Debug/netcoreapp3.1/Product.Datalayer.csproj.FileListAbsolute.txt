@@ -1,0 +1,8 @@
+C:\Charles\ProductApi\Datalayer\bin\Debug\netcoreapp3.1\Product.Datalayer.deps.json
+C:\Charles\ProductApi\Datalayer\bin\Debug\netcoreapp3.1\Product.Datalayer.dll
+C:\Charles\ProductApi\Datalayer\bin\Debug\netcoreapp3.1\Product.Datalayer.pdb
+C:\Charles\ProductApi\Datalayer\obj\Debug\netcoreapp3.1\Product.Datalayer.AssemblyInfoInputs.cache
+C:\Charles\ProductApi\Datalayer\obj\Debug\netcoreapp3.1\Product.Datalayer.AssemblyInfo.cs
+C:\Charles\ProductApi\Datalayer\obj\Debug\netcoreapp3.1\Product.Datalayer.csproj.CoreCompileInputs.cache
+C:\Charles\ProductApi\Datalayer\obj\Debug\netcoreapp3.1\Product.Datalayer.dll
+C:\Charles\ProductApi\Datalayer\obj\Debug\netcoreapp3.1\Product.Datalayer.pdb

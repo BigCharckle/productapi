@@ -1,0 +1,9 @@
+C:\Charles\ProductApi\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.deps.json
+C:\Charles\ProductApi\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.dll
+C:\Charles\ProductApi\BusinessObjects\bin\Debug\netcoreapp3.1\BusinessObjects.pdb
+C:\Charles\ProductApi\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.AssemblyReference.cache
+C:\Charles\ProductApi\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfoInputs.cache
+C:\Charles\ProductApi\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.AssemblyInfo.cs
+C:\Charles\ProductApi\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Charles\ProductApi\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.dll
+C:\Charles\ProductApi\BusinessObjects\obj\Debug\netcoreapp3.1\BusinessObjects.pdb
